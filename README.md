@@ -21,6 +21,7 @@ Languages, frameworks and tools I've worked with:
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></img></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"></img></a>
 <a href="https://www.gatsbyjs.org/" title="Gatsby"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gatsby.svg" alt="Gatsby" width="21px" height="21px"></img></a>
+<a href="https://nextjs.org/" title="NextJS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="NextJS" width="21px" height="21px"></img></a>
 
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="21px" height="21px"></img></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></img></a>
