@@ -1,1 +1,1 @@
-<a href="https://www.ymiregilson.com/"><h1>Hey my name is Ymir!</h1></a>
+<a href="https://www.ymiregilson.com/">Hey my name is Ymir!</a>
